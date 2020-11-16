@@ -1,4 +1,4 @@
-# PipelinedRISCProcessor
+# Pipelined RISC-V Processor
 Implementation of the orginal pipelined version of a RISC-V processor
 
 The pipeline implementation of a RISC-V processor with data forwarding techniques to overcome data hazards.
